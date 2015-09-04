@@ -1,0 +1,8 @@
+---
+title: "Party Module"
+type: "challenge"
+description: "You're having a party, and it's up to you to maintain some decency. "
+visibility: "assign"
+tags: "oop, inheritance"
+ignore:
+- "party-module.md"
