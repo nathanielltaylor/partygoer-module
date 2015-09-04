@@ -1,19 +1,11 @@
 module PartyGoer
-  #YOUR CODE GOES HERE
-
-
+  
   def drink
     true
   end
 
-  def add_drink
-    drink_count = 0
-    drink_count += 1
-    drink_count
-  end
-
   def sing
-    "fvebvrtb"
+    "siiingiiiing"
   end
 
   def cause_havoc
